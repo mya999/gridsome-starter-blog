@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Mohammed Y. Mardi',
-  siteDescription: 'Ph.D., Computer Science.',
+  siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.',
 
   templates: {
     Post: '/:title',
